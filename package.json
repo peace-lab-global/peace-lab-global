@@ -1,0 +1,14 @@
+{
+  "name": "peace-lab-global",
+  "version": "1.0.0",
+  "description": "平静实验室 Peace Lab - 心理自助频道主页",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
